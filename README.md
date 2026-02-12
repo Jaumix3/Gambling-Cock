@@ -9,6 +9,8 @@ This is a module for arduino which is a clock so I can know the time without che
 <img width="630" height="403" alt="image" src="https://github.com/Jaumix3/Gambling-Cock/blob/master/caps/imagen.png?raw=true" />
 <img width="630" height="403" alt="image" src="https://github.com/Jaumix3/Gambling-Cock/blob/master/caps/imagen(1).png?raw=true" />
 <img width="630" height="403" alt="image" src="https://github.com/Jaumix3/Gambling-Cock/blob/master/caps/imagen(2).png?raw=true" />
+<img width="630" height="403" alt="image" src="https://github.com/Jaumix3/Gambling-Cock/blob/master/caps/Pasted%20image.png?raw=true" />
+
 
 
 ## BOM
