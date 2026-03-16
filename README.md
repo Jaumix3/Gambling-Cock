@@ -1,5 +1,5 @@
 # Gambling Clock
-This is a module for arduino which is a clock so I can know the time without checking anything else.
+This is a module for arduino which is a clock so I can know the time without checking anything else. This PCB was made with EasyEDA. Do not try to open it with kiCad. Thank you.
 
 
 ## Images
